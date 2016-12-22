@@ -6,12 +6,14 @@ background-repeat: no-repeat;
     background-size: cover;
 }
 .InDown {
+    display: block;
+    margin: auto;
 position: relative;
     -webkit-animation: mymove 2s infinite; /* Safari 4.0 - 8.0 */
     animation: mymove 2s infinite;
 animation-timing-function: ease-in;
 }
 @keyframes mymove {
-    from {top: 50px; margin:auto;}
-    to {top: 300px; margin:auto;}
+    from {top: 50px;}
+    to {top: 300px;}
 }
