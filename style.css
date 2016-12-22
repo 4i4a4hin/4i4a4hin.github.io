@@ -6,6 +6,7 @@ background-repeat: no-repeat;
     background-size: cover;
 }
 .InDown {
+    margin: auto;
 position: relative;
     -webkit-animation: mymove 2s infinite; /* Safari 4.0 - 8.0 */
     animation: mymove 2s infinite;
