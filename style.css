@@ -1,8 +1,12 @@
 body {
     background-color: red;
 }
-// setting base styles to image containers
-[class*="bg__"] {
+.parallax {
+  [class*="bg__"] {
+    position : relative;
+
+    height : 50vh;
+
   height: 50vh;
 
   text-indent: -9999px;
