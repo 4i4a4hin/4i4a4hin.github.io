@@ -12,6 +12,6 @@ position: relative;
 animation-timing-function: ease-in;
 }
 @keyframes mymove {
-    from {top: 50px; left:50%;}
-    to {top: 300px; left:50%;}
+    from {top: 50px; margin:auto;}
+    to {top: 300px; margin:auto;}
 }
