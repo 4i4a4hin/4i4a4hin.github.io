@@ -13,6 +13,7 @@ position: relative;
 animation-timing-function: ease-in;
 }
 @keyframes mymove {
+    align-self: center;
     from {top: 50px; left: auto;}
     to {top: 300px; left: auto;}
 }
