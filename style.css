@@ -7,6 +7,7 @@ background-repeat: no-repeat;
     background-blend-mode: multiply;
 }
 .cover {
+    margin: auto;
     position: relative;
     display:block;
     z-index: 5;
@@ -14,6 +15,11 @@ background-repeat: no-repeat;
     width: 18%;
     height: 100px;
     background:white;
+}
+.extern {
+     width: 18%;
+    margin: auto;
+    display: block;
 }
 .InDown {
     display: block;
