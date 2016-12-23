@@ -7,7 +7,6 @@ background-repeat: no-repeat;
     background-blend-mode: multiply;
 }
 .InDown {
-    display: block;
     width: 18%;
     z-index: -1;
 position: relative;
