@@ -6,6 +6,15 @@ background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: multiply;
 }
+.cover {
+    position: relative;
+    margin: auto;
+    -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
+    animation: mymove 1s;
+animation-timing-function: ease-in;
+    -webkit-animation-fill-mode: forwards;
+    width: 18%;
+}
 .InDown {
 position: relative;
     margin: auto;
