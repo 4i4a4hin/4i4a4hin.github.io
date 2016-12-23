@@ -7,12 +7,12 @@ background-repeat: no-repeat;
     background-blend-mode: multiply;
 }
 .cover {
-    position: absolute;
+    position: fixed;
     margin: auto;
     width: 18%;
     height: 100px;
     color:white;
-    mix-blend-mode: multiply;
+    mix-blend-mode: overlay;
 }
 .InDown {
 position: relative;
