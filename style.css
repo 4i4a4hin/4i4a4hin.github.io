@@ -9,11 +9,9 @@ background-repeat: no-repeat;
 .cover {
     position: relative;
     margin: auto;
-    -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
-    animation: mymove 1s;
-animation-timing-function: ease-in;
-    -webkit-animation-fill-mode: forwards;
     width: 18%;
+    height: 100px;
+    color:white;
 }
 .InDown {
 position: relative;
