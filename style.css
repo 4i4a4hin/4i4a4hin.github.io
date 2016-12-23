@@ -6,6 +6,9 @@ background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
+.InDown img {
+    margin:auto;
+}
 .InDown {
     z-index: -3;
 position: relative;
