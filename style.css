@@ -6,7 +6,6 @@ background-repeat: no-repeat;
     background-size: cover;
 }
 .InDown {
-    width: 18%;
     z-index: -3;
 position: relative;
     margin: auto;
