@@ -7,6 +7,7 @@ background-repeat: no-repeat;
     background-size: cover;
 }
 .InDown {
+    position:relative;
     z-index: -3;
 height: 500px;
     background-image: url(4i4a4hin.github.io/4i4a png1.png);
