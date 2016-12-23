@@ -11,6 +11,7 @@ position: relative;
     -webkit-animation: mymove 2s; /* Safari 4.0 - 8.0 */
     animation: mymove 2s;
 animation-timing-function: ease-in;
+    transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
     -webkit-animation-fill-mode: forwards;
     width: 18%;
     border: 3px solid #73AD21;
