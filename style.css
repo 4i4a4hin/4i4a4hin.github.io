@@ -6,23 +6,10 @@ background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: multiply;
 }
-.cover {
-    margin: auto;
-    position: relative;
-    display:block;
-    z-index: 5;
-    margin: auto;
-    height: 100px;
-    background:white;
-}
-.extern {
-     width: 18%;
-    margin: auto;
-    display: block;
-}
 .InDown {
     display: block;
-    z-index: 3;
+    width: 18%;
+    z-index: -1;
 position: relative;
     margin: auto;
     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
