@@ -9,10 +9,6 @@ background-repeat: no-repeat;
 .InDown {
     z-index: -3;
 height: 500px;
-    -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
-    animation: mymove 1s;
-animation-timing-function: ease-in;
-    -webkit-animation-fill-mode: forwards;
     background-image: url(4i4a4hin.github.io/4i4a png1.png);
      background-position: center center;
 background-repeat: no-repeat;
