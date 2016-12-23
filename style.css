@@ -16,6 +16,6 @@ animation-timing-function: ease-in;
     border: 3px solid #73AD21;
 }
 @keyframes mymove {
-    from {top: 20px;}
-    to {top: 230px;}
+    from {top: 10px;}
+    to {top: 200px;}
 }
