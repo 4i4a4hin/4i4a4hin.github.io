@@ -12,6 +12,7 @@ background-repeat: no-repeat;
     width: 18%;
     height: 100px;
     color:white;
+    mix-blend-mode: multiply;
 }
 .InDown {
 position: relative;
