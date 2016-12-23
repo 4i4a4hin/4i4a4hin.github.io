@@ -30,5 +30,5 @@ background-repeat: no-repeat;
 }
 @keyframes mymove {
     from {top: -4%; z-index: -99999; opacity: 0; display: none;}
-    to {top: 38%; z-index: 1; opacity: 1;}
+    to {top: 100%; z-index: 1; opacity: 1;}
 }
