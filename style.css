@@ -21,6 +21,6 @@ position: relative;
 height: 500px;
 }
 @keyframes mymove {
-    from {top: -20px; z-index: -99999; opacity: 0; display: none;}
-    to {top: 190px; z-index: 1; opacity: 1;}
+    from {top: -4%; z-index: -99999; opacity: 0; display: none;}
+    to {top: 38%; z-index: 1; opacity: 1;}
 }
