@@ -12,10 +12,10 @@ position: relative;
     animation: mymove 2s;
 animation-timing-function: ease-in;
     -webkit-animation-fill-mode: forwards;
-    width: 40%;
+    width: 30%;
     border: 3px solid #73AD21;
 }
 @keyframes mymove {
-    from {top: 50px;}
-    to {top: 300px;}
+    from {top: 30px;}
+    to {top: 290px;}
 }
