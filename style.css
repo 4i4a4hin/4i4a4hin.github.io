@@ -6,15 +6,6 @@ background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
-/* .InDown img {
-    position: relative;
-    display: block;
-    margin:auto;
-     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
-    animation: mymove 1s;
-animation-timing-function: ease-in;
-    -webkit-animation-fill-mode: forwards;
-}*/
 .InDown {
     z-index: -3;
 height: 500px;
