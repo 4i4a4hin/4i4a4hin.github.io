@@ -18,5 +18,5 @@ animation-timing-function: ease-in;
 }
 @keyframes mymove {
     from {top: -20px; z-index: -99999;}
-    to {top: 200px; z-index: 1}
+    to {top: 190px; z-index: 1}
 }
