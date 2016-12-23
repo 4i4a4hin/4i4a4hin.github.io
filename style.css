@@ -5,6 +5,7 @@ background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-blend-mode: multiply;
+     z-index: 1;
 }
 .InDown {
     width: 18%;
