@@ -8,8 +8,8 @@ background-repeat: no-repeat;
 .InDown {
 position: relative;
     margin: auto;
-    -webkit-animation: mymove 2s infinite; /* Safari 4.0 - 8.0 */
-    animation: mymove 2s infinite;
+    -webkit-animation: mymove 2s; /* Safari 4.0 - 8.0 */
+    animation: mymove 2s;
 animation-timing-function: ease-in;
     width: 40%;
     border: 3px solid #73AD21;
