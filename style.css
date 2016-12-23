@@ -9,7 +9,7 @@ background-repeat: no-repeat;
 .InDown {
     z-index: -3;
 position: relative;
-    margin: auto;
+height: 500px;
     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
     animation: mymove 1s;
 animation-timing-function: ease-in;
