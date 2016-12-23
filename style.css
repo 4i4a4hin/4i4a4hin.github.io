@@ -7,7 +7,6 @@ background-repeat: no-repeat;
     background-size: cover;
 }
 .InDown img {
-    width: 100%;
     position: relative;
     display: block;
     margin:auto;
