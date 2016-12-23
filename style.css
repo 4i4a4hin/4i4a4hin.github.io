@@ -24,6 +24,10 @@ height: 500px;
 animation-timing-function: ease-in;
     -webkit-animation-fill-mode: forwards;
     background-image: url(4i4a4hin.github.io/4i4a png1.png);
+     background-position: center center;
+background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 @keyframes mymove {
     from {top: -4%; z-index: -99999; opacity: 0; display: none;}
