@@ -4,6 +4,7 @@ body {
 background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-blend-mode: multiply;
 }
 .InDown {
 position: relative;
@@ -13,7 +14,6 @@ position: relative;
 animation-timing-function: ease-in;
     -webkit-animation-fill-mode: forwards;
     width: 18%;
-    mix-blend-mode: difference;
 }
 @keyframes mymove {
     from {top: -20px;}
