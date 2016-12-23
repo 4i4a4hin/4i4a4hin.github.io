@@ -13,6 +13,7 @@ position: relative;
 animation-timing-function: ease-in;
     -webkit-animation-fill-mode: forwards;
     width: 18%;
+    mix-blend-mode: exclusion;
 }
 @keyframes mymove {
     from {top: -20px;}
