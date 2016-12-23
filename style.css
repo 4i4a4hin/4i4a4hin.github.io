@@ -17,7 +17,6 @@ animation-timing-function: ease-in;
 }*/
 .InDown {
     z-index: -3;
-position: relative;
 height: 500px;
     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
     animation: mymove 1s;
