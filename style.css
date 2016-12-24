@@ -47,8 +47,8 @@ background-repeat: no-repeat;
     to   { opacity: 1; }
 }
 .InDown {
-    width: 99vw;
+    width: 100vw;
     z-index: -3;
 position: relative;
-height: auto;
+height: 100vh;
 }
