@@ -55,7 +55,6 @@ height: 100vh;
     background-position: center center;
 background-repeat: no-repeat;
     background-attachment: fixed;
-    background-blend-mode: multiply;
     background-size: cover;
     /*-webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 2s; /* Firefox < 16 */
