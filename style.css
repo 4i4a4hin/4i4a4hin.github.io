@@ -1,4 +1,5 @@
 .body {
+    width: 100vw;
     height: 100vh;
     background-image: url(4i4a4hin.github.io/frame.png);
     background-position: center center;
@@ -16,11 +17,12 @@ animation-timing-function: ease-in;
     -webkit-animation-fill-mode: forwards;
 }
 .InDown {
+    width: 100vw;
     z-index: -3;
 position: relative;
 height: 100vh;
 }
 @keyframes mymove {
-    from {top: -4%; z-index: -99999; opacity: 0; display: none;}
-    to {top: 38%; z-index: 1; opacity: 1;}
+    from {top: -6%; z-index: -99999; opacity: 0; display: none;}
+    to {top: 40%; z-index: 1; opacity: 1;}
 }
