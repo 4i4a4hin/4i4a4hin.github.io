@@ -9,8 +9,10 @@ background-repeat: no-repeat;
     background-size: cover;
 }
 img {  
-    max-height: 40%;  
-    max-width: 40%; 
+    max-height: 50%;  
+    max-width: 50%; 
+    min-height: 45%;  
+    min-width: 45%; 
     width: auto;
     height: auto;
     position: absolute;  
