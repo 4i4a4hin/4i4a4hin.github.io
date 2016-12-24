@@ -13,6 +13,6 @@ img {
     bottom: 0;
     right: 0;
     margin: auto;
-    position: absolute;
+    position: relative;
     left: 0;
 }
