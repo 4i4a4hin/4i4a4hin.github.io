@@ -26,28 +26,154 @@ height: 500px;
 }
 /* Smartphones start somewhere around here */
 @media (min-width: 300px) {
+    .InDown img {
+    position: relative;
+    display: block;
+    margin:auto;
+     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
+    animation: mymove 1s;
+animation-timing-function: ease-in;
+    -webkit-animation-fill-mode: forwards;
+}
+.InDown {
+    z-index: -3;
+position: relative;
+height: 500px;
+}
+@keyframes mymove {
+    from {top: -4%; z-index: -99999; opacity: 0; display: none;}
+    to {top: 38%; z-index: 1; opacity: 1;}
+}
 }
 
 /* You might do landscape phones here if your content seems to need it */
 @media (min-width: 450px) {
+    .InDown img {
+    position: relative;
+    display: block;
+    margin:auto;
+     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
+    animation: mymove 1s;
+animation-timing-function: ease-in;
+    -webkit-animation-fill-mode: forwards;
+}
+.InDown {
+    z-index: -3;
+position: relative;
+height: 500px;
+}
+@keyframes mymove {
+    from {top: -4%; z-index: -99999; opacity: 0; display: none;}
+    to {top: 38%; z-index: 1; opacity: 1;}
+}
 }
 
 /* Starting into tablets somewhere in here */
 @media (min-width: 600px) {
+    .InDown img {
+    position: relative;
+    display: block;
+    margin:auto;
+     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
+    animation: mymove 1s;
+animation-timing-function: ease-in;
+    -webkit-animation-fill-mode: forwards;
+}
+.InDown {
+    z-index: -3;
+position: relative;
+height: 500px;
+}
+@keyframes mymove {
+    from {top: -4%; z-index: -99999; opacity: 0; display: none;}
+    to {top: 38%; z-index: 1; opacity: 1;}
+}
 }
 
 /* Perhaps bigger tablets */
 @media (min-width: 750px) {
+    .InDown img {
+    position: relative;
+    display: block;
+    margin:auto;
+     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
+    animation: mymove 1s;
+animation-timing-function: ease-in;
+    -webkit-animation-fill-mode: forwards;
+}
+.InDown {
+    z-index: -3;
+position: relative;
+height: 500px;
+}
+@keyframes mymove {
+    from {top: -4%; z-index: -99999; opacity: 0; display: none;}
+    to {top: 38%; z-index: 1; opacity: 1;}
+}
 }
 
 /* Desktop screen or landscape tablet */
 @media (min-width: 900px) {
+    .InDown img {
+    position: relative;
+    display: block;
+    margin:auto;
+     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
+    animation: mymove 1s;
+animation-timing-function: ease-in;
+    -webkit-animation-fill-mode: forwards;
+}
+.InDown {
+    z-index: -3;
+position: relative;
+height: 500px;
+}
+@keyframes mymove {
+    from {top: -4%; z-index: -99999; opacity: 0; display: none;}
+    to {top: 38%; z-index: 1; opacity: 1;}
+}
 }
 
 /* A bit bigger if you need some adjustments around here */
 @media (min-width: 1100px) {
+    .InDown img {
+    position: relative;
+    display: block;
+    margin:auto;
+     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
+    animation: mymove 1s;
+animation-timing-function: ease-in;
+    -webkit-animation-fill-mode: forwards;
+}
+.InDown {
+    z-index: -3;
+position: relative;
+height: 500px;
+}
+@keyframes mymove {
+    from {top: -4%; z-index: -99999; opacity: 0; display: none;}
+    to {top: 38%; z-index: 1; opacity: 1;}
+}
 }
 
 /* Widescreens */
 @media (min-width: 1500px) {
+    .InDown img {
+    position: relative;
+    display: block;
+    margin:auto;
+     -webkit-animation: mymove 1s; /* Safari 4.0 - 8.0 */
+    animation: mymove 1s;
+animation-timing-function: ease-in;
+    -webkit-animation-fill-mode: forwards;
+}
+.InDown {
+    z-index: -3;
+position: relative;
+height: 500px;
+}
+@keyframes mymove {
+    from {top: -4%; z-index: -99999; opacity: 0; display: none;}
+    to {top: 38%; z-index: 1; opacity: 1;}
+}
 }
