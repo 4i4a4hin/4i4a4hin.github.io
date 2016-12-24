@@ -8,7 +8,7 @@ background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
-/*img {  
+img {  
     max-height: 100%;  
     max-width: 100%; 
     width: auto;
@@ -19,8 +19,4 @@ background-repeat: no-repeat;
     left: 0;  
     right: 0;  
     margin: auto;
-}*/
-img {
-    display: block;
-    margin: 0 auto;
-  }
+}
