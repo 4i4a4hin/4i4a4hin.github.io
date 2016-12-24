@@ -2,7 +2,6 @@
     width: 100vw;
     height: 100vh;
     background-image: url(4i4a4hin.github.io/frame.png);
-    background-blend-mode: multiply;
     background-position: center center;
 background-repeat: no-repeat;
     background-attachment: fixed;
@@ -49,7 +48,7 @@ background-repeat: no-repeat;
 }
 .InDown {
     width: 100vw;
-    z-index: -3;
+    z-index: -1;
 position: relative;
 height: 100vh;
     background-image: url(4i4a4hin.github.io/4i4a png1.png);
