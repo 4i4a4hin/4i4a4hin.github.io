@@ -17,10 +17,10 @@ animation-timing-function: ease-in;
     -webkit-animation-fill-mode: forwards;
 }
 .InDown {
-    width: 100vw;
+    width: 99vw;
     z-index: -3;
 position: relative;
-height: 100vh;
+height: auto;
 }
 @keyframes mymove {
     from {top: -6%; z-index: -99999; opacity: 0; display: none;}
