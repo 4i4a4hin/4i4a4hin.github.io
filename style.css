@@ -7,7 +7,7 @@ background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
-.InDown img {
+/*.InDown img {
     position: relative;
     display: block;
     margin:auto;
@@ -17,7 +17,7 @@ background-repeat: no-repeat;
          -o-animation: fadein 2s; /* Opera < 12.1 */
             animation: fadein 2s;
 }
-
+*/
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
@@ -51,4 +51,16 @@ background-repeat: no-repeat;
     z-index: -3;
 position: relative;
 height: 100vh;
+       width: 100vw;
+    height: 100vh;
+    background-image: url(4i4a4hin.github.io/.png);
+    background-position: center center;
+background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
 }
