@@ -55,23 +55,28 @@ background-repeat: no-repeat;
     width: 315px;
     height: 315px;
     background-position: -5px -5px;
+    float:left;
 }
 
 .sprite-fotik {
     width: 315px;
     height: 315px;
     background-position: -330px -5px;
+    float:left;
 }
 
 .sprite-png-collage {
     width: 315px;
     height: 315px;
     background-position: -5px -330px;
+    float:left;
 }
 
 .sprite-webdesign-png {
     width: 315px;
     height: 315px;
     background-position: -330px -330px;
+    float:left;
+}
 }
 
