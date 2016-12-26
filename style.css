@@ -8,6 +8,18 @@ background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
+.sp{
+    max-height: 46%;  
+    max-width: 46%; 
+    width: auto;
+    height: auto;
+    position:fixed;  
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
+}
 .img4{  
     max-height: 46%;  
     max-width: 46%; 
