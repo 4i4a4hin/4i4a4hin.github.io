@@ -4,13 +4,25 @@
     <title>My first webpage</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
        <link href="style.css" type="text/css" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script>
 $(document).ready(function(){
     $("img").click(function(){
         $("p").toggle();
     });
 });
+</script>-->
+	  <script type="text/javascript">
+	$(document).ready(
+		function(){
+			$('#portfolio').innerfade({
+				speed: 'slow',
+				timeout: 4000,
+				type: 'sequence',
+				containerheight: '220px'
+			});
+		}
+	);
 </script>
   </head>
   <body>
