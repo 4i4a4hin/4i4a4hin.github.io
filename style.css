@@ -33,3 +33,33 @@ background-repeat: no-repeat;
    from {opacity: 0;}
     to {opacity: 1;}
 }
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-drawing-png {
+    width: 315px;
+    height: 315px;
+    background-position: -5px -5px;
+}
+
+.sprite-fotik {
+    width: 315px;
+    height: 315px;
+    background-position: -330px -5px;
+}
+
+.sprite-png-collage {
+    width: 315px;
+    height: 315px;
+    background-position: -5px -330px;
+}
+
+.sprite-webdesign-png {
+    width: 315px;
+    height: 315px;
+    background-position: -330px -330px;
+}
+
