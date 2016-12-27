@@ -23,8 +23,8 @@ max-height: 26%;
     margin: auto;
 }
 .d1, .d2, .d3, .d4 {
-  width: 100vw;
-  height: 100wh;
+  width: 35vw;
+  height: 35wh;
 }
 .d1 {
     position:fixed;
