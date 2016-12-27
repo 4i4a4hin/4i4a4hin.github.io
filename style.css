@@ -10,10 +10,11 @@ padding-left: 100px;
 .d3 {
     padding-left: 445px;
 }*/
+.scroll img {
+    width: 40%;
+}
 div.scroll {
-  position:relative;
-  width:50vw;
-  height:50vh;
+  position:absolute;
   bottom:0;
   right:0;
 }
