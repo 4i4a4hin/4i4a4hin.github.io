@@ -4,8 +4,10 @@
     height:20vh;
 }
 .d1, .d2, {
-    margin-left:50px;
     float:left;
+}
+.d1 {
+    margin-left: 50px;
 }
  .d3, .d4 {
      margin-right:-50px;
