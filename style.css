@@ -11,13 +11,16 @@ padding-left: 100px;
     padding-left: 445px;
 }*/
 .scroll img {
-    width: 40%;
+    width: 46%;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 div.scroll {
-  position:absolute;
-  bottom:0;
- left: 0;  
-    right: 0; 
+    position: absolute;
+    bottom: 0;
+    right: 15%;
 }
 .d1 img, .d2 img, .d3 img, .d4 img {
 max-height: 26%;  
