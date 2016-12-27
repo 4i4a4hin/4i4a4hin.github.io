@@ -11,7 +11,9 @@ padding-left: 100px;
     padding-left: 445px;
 }*/
 div.scroll {
-  position:fixed;
+  position:relative;
+  width:50vw;
+  height:50vh;
   bottom:0;
   right:0;
 }
