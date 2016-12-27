@@ -29,22 +29,22 @@ max-height: 100%;
 .d1 {
     position:fixed;
     top:42%;
-    left:10%;
+    left:9%;
 }
 .d2 { 
   position:fixed;
     top:42%;
-    left:18%;    
+    left:21%;    
 }
 .d3 {
    position:fixed;
     top:42%;
-    left:28%;    
+    left:33%;    
 }
 .d4 {
   position:fixed;
     top:42%;
-    left:34%;   
+    left:45%;   
 }
 .frame {
     position: relative;
