@@ -1,13 +1,13 @@
-.di, .d2, .d3, .d4 {
+.d1, .d2, .d3, .d4 {
     position: relative;
     width:25vw;
     height:25vh;
     display: inline-block;
     float:right;
 }
-.di, .d2, .d3, .d4 img {
-max-height: 11.5%;  
-    max-width: 11.5%; 
+.d1, .d2, .d3, .d4 img {
+max-height: 12%;  
+    max-width: 12%; 
     width: auto;
     height: auto;
     position:fixed;  
