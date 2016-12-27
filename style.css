@@ -1,4 +1,7 @@
 .di, .d2, .d3, .d4 {
+    position: relative;
+    width:25vw;
+    height:25vh;
     display: inline-block;
     float:right;
 }
