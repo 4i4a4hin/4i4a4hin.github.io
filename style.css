@@ -22,6 +22,9 @@ div.scroll {
     bottom: 0;
     right: 15%;
 }
+div.gallery1, div.gallery2, div.gallery3, div.gallery4 {
+  position: absolute;
+}
 .d1 img, .d2 img, .d3 img, .d4 img {
 max-height: 26%;  
     max-width: 26%; 
