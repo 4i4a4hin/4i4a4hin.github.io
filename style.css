@@ -1,3 +1,7 @@
+.di, .d2, .d3, .d4 {
+    display: inline-block;
+    float:right;
+}
 .frame {
     position: relative;
     width: 100vw;
