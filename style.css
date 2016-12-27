@@ -10,6 +10,12 @@ padding-left: 100px;
 .d3 {
     padding-left: 445px;
 }*/
+.gallery img {
+    width: 33%;
+    height: auto;
+    float: left; 
+    max-width: 235px;
+}
 .d1 img, .d2 img, .d3 img, .d4 img {
 max-height: 26%;  
     max-width: 26%; 
