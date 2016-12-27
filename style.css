@@ -21,11 +21,11 @@ max-height: 26%;
     left: 0;  
     right: 0;  
     margin: auto;
+  box-shadow: 10px 10px;
 }
 .d1, .d2, .d3, .d4 {
   width: 35vw;
   height: 35wh;
-  box-shadow: 10px 10px;
 }
 .d1 {
     position:fixed;
