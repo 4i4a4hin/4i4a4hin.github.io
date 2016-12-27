@@ -3,14 +3,11 @@
     width:20vw;
     height:20vh;
 }
-.d1, .d2, {
+.d1, .d2, .d3, .d4 {
     float:left;
 }
 .d1 {
     margin-left: 50px;
-}
- .d3, .d4 {
-    float:right;
 }
 .d1 img, .d2 img, .d3 img, .d4 img {
 max-height: 100%;  
