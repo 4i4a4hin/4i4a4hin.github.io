@@ -1,8 +1,6 @@
 .d1, .d2, .d3, .d4 {
-    position: relative;
     width:25vw;
     height:25vh;
-    display: block;
 }
 .d1 img, .d2 img, .d3 img, .d4 img {
 max-height: 25%;  
