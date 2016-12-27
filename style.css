@@ -60,7 +60,7 @@ background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
-img{  
+.frame img{  
     max-height: 46%;  
     max-width: 46%; 
     width: auto;
