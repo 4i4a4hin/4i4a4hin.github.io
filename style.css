@@ -1,8 +1,6 @@
-/*.d1, .d2, .d3, .d4 {
-  width: 9vw;
-  height: 9wh;
-  padding-top:18%;
-padding-left: 100px;
+body {
+  padding: 0;
+  margin: 0;
 }
 .d1, .d2, .d3, .d4 {
     float:left;
