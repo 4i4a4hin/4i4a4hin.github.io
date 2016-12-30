@@ -2,12 +2,6 @@ body {
   padding: 0;
   margin: 0;
 }
-.d1, .d2, .d3, .d4 {
-    float:left;
-}
-.d3 {
-    padding-left: 445px;
-}*/
 .scroll img {
     width: 46%;
     margin: auto;
